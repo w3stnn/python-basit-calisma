@@ -1,6 +1,6 @@
 sayi=int(input("bir sayi giriniz: "))
 
 if sayi%2==0:
-    print("sayi cifttir...")
+    print(f"{sayi} cifttir...")
 else:
-    print("sayi tektir...")
+    print(f"{sayi} tektir...")
