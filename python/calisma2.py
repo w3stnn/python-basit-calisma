@@ -1,5 +1,5 @@
 #Aritmetik atama operatörleri
-#kullanıcıdan veri alarak basit hesap makinesi oluşturma.
+#kullanicidan veri alarak basit hesap makinesi oluşturma.
 
 sayi1=float(input("Birinci sayiyi giriniz: "))
 sayi2=float(input("ikinci sayiyi giriniz:"))
