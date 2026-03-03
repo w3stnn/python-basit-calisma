@@ -7,7 +7,7 @@ while(i<7):
     i+=1
 
 MyNumbers.sort()
-#print(MyNumbers) #liste gibi yazar burada bitirirsen ornegin=[1, 2, 3, 19, 23, 34, 70]
+#print(MyNumbers) #liste gibi yazar burada bitirirsin ornegin=[1, 2, 3, 19, 23, 34, 70]
 x=0
 while(x<7):
     print(MyNumbers[x],end=" ") #end parametresi atanmazsa alt alta yazar
